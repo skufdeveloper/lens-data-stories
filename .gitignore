@@ -5,6 +5,7 @@ coverage/
 .env*
 !.env.example
 .vercel/
+.netlify/
 *.tsbuildinfo
 .DS_Store
 artifacts/
