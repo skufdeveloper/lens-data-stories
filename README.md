@@ -2,6 +2,8 @@
 
 Микро-SaaS для анализа CSV, Excel и текстовых отчётов. Короткая история, интерактивные графики и чат с подтверждениями из источника. Без регистрации и базы данных.
 
+[![Quality gates](https://github.com/skufdeveloper/lens-data-stories/actions/workflows/ci.yml/badge.svg)](https://github.com/skufdeveloper/lens-data-stories/actions/workflows/ci.yml)
+
 ![Интерфейс Lens](docs/images/dashboard.png)
 
 ## Запуск за минуту

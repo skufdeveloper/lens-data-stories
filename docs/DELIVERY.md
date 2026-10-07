@@ -4,6 +4,7 @@
 
 - Реализован локальный MVP на Next.js с серверным адаптером GigaChat.
 - Репозиторий: https://github.com/skufdeveloper/lens-data-stories
+- [Успешный CI на Ubuntu / Node.js 24](https://github.com/skufdeveloper/lens-data-stories/actions/runs/37642116503): чистая установка, 26 тестов, TypeScript, линтер и production-сборка.
 - По указанию пользователя проверка выполнена **без API-ключа**. Live-интеграция ещё не подтверждена.
 - Для локальной проверки: `npm ci && npm run dev`, затем http://localhost:3000.
 - Ссылки публикации добавляются после фактического успешного деплоя, а не заранее.
