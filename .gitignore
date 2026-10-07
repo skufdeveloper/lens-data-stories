@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+coverage/
+.env*
+!.env.example
+.vercel/
+*.tsbuildinfo
+.DS_Store
+artifacts/
+.beads/*.db*
+.beads/*.lock
+.beads/*.log
+.beads/*.pid

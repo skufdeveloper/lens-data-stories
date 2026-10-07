@@ -1,0 +1,6 @@
+.beads
+docs
+artifacts
+**/*.test.ts
+scripts
+.github
